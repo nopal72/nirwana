@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/night-man-alone-starry-sky-night-sky-comet-silhouette-3840x2160-8325.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    /* height: 20000px; */
+}
+
+article{
+    width: 70%;
+    margin: 10%;
+    height: auto;
+    background-color: whitesmoke;
+    margin:auto;
+}
+
+

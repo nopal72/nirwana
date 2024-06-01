@@ -1,0 +1,14 @@
+body {
+    background-image: url(../img/night-man-alone-starry-sky-night-sky-comet-silhouette-3840x2160-8325.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    /* height: 20000px; */
+}
+
+.container .card img{
+    transition: 1s;
+}
+
+.container .card img:hover{
+    scale: 105%;
+}
